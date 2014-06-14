@@ -1,4 +1,4 @@
 QExpress
 ========
 
-A application for BlackBerry10
+An application for BlackBerry10
